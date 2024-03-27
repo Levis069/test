@@ -10,15 +10,14 @@ namespace git_test_code
             int felhasznaloSzam = int.Parse(Console.ReadLine());
             for (int i = 0; i <= felhasznaloSzam; i++)
             {
-            //    if (i == felhasznaloSzam)
-            //    {
-            //        Console.Write(i);
-            //    }
-            //    else
-            //    {
-            //        Console.Write(i + ", ");
-            //    }
-
+                if (i == felhasznaloSzam)
+                {
+                    Console.Write(i);
+                }
+                else
+                {
+                    Console.Write(i + ", ");
+                }
             }
         }
     }
