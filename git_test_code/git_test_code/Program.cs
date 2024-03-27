@@ -8,8 +8,8 @@ namespace git_test_code
         {
             Console.Write("Kérek egy számot!: ");
             int felhasznaloSzam = int.Parse(Console.ReadLine());
-            //for (int i = 0; i <= felhasznaloSzam; i++)
-            //{
+            for (int i = 0; i <= felhasznaloSzam; i++)
+            {
             //    if (i == felhasznaloSzam)
             //    {
             //        Console.Write(i);
@@ -19,7 +19,7 @@ namespace git_test_code
             //        Console.Write(i + ", ");
             //    }
 
-            //}
+            }
         }
     }
 }
