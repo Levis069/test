@@ -6,8 +6,8 @@ namespace git_test_code
     {
         static void Main(string[] args)
         {
-            //Console.Write("Kérek egy számot!: ");
-            //int felhasznaloSzam = int.Parse(Console.ReadLine());
+            Console.Write("Kérek egy számot!: ");
+            int felhasznaloSzam = int.Parse(Console.ReadLine());
             //for (int i = 0; i <= felhasznaloSzam; i++)
             //{
             //    if (i == felhasznaloSzam)
