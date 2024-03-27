@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\bin\Debug\net5.0\git_test_code.exe
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\bin\Debug\net5.0\git_test_code.deps.json
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\bin\Debug\net5.0\git_test_code.runtimeconfig.json
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\bin\Debug\net5.0\git_test_code.runtimeconfig.dev.json
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\bin\Debug\net5.0\git_test_code.dll
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\bin\Debug\net5.0\git_test_code.pdb
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\git_test_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\git_test_code.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\git_test_code.AssemblyInfo.cs
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\git_test_code.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\git_test_code.dll
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\refint\git_test_code.dll
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\git_test_code.pdb
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\git_test_code.genruntimeconfig.cache
+C:\Users\admin\Documents\git_test\git_test_code\git_test_code\obj\Debug\net5.0\ref\git_test_code.dll
